@@ -59,7 +59,7 @@ class formularioController{
         $id = $_REQUEST['id'];
         $estudiante = new Formulario();
         $dato = $estudiante->eliminar("estudiante","estudiante_id=".$id);
-        header("location:./");
+        header("location:./ejkbwuecjwbjebcwcñwphicpwñ");
     }
 
 
